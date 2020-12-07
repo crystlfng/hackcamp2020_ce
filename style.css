@@ -1,0 +1,35 @@
+.display {
+    font-size: 150px;
+    font-family: 'Caveat', cursive;
+    padding-top: 1.5em;
+  }
+
+  #display{
+    width: 300px;
+  }
+
+body{
+  padding: 25px;
+}
+  
+  .controls{
+    padding-left: 5em;
+  }
+  
+  .buttons {
+    cursor: pointer;
+  }
+  
+  #cat-work{
+    position: absolute;
+   
+  }
+  
+  #show{
+    position: absolute;
+    visibility: hidden;
+  }
+  
+  
+  
+  
